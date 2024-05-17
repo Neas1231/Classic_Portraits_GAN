@@ -1,1 +1,2 @@
-# Classic_Portraits_GAN
+# Classic_Portraits
+Модель генератор обученный на классических портретах
